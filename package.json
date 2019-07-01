@@ -10,8 +10,16 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "apollo-boost": "^0.4.3",
+    "apollo-cache-inmemory": "^1.6.2",
+    "apollo-client": "^2.6.3",
+    "apollo-link": "^1.2.12",
+    "apollo-link-http": "^1.5.15",
     "core-js": "^2.6.5",
+    "graphql": "^14.4.1",
+    "graphql-tag": "^2.10.1",
     "vue": "^2.6.10",
+    "vue-apollo": "^3.0.0-rc.1",
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1"
   },
